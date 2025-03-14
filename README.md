@@ -1,7 +1,9 @@
 
 # Projeto Spotify - Treinamento FullStack
 
-## Curso FrontEnd e BackEnd ministrado pela Hashtag Treinamentos, para a construção de um projeto baseado no Spotify.
+## Curso ministrado pela Hashtag Treinamentos 
+
+### Construção de um projeto baseado no Spotify.
 
 ### As seguintes tecnologias foram utilizadas: 
 
